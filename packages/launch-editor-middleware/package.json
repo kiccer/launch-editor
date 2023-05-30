@@ -1,6 +1,6 @@
 {
-  "name": "launch-editor-middleware",
-  "version": "2.6.0",
+  "name": "@catnap/launch-editor-middleware",
+  "version": "2.6.1",
   "description": "express middleware for launching editor",
   "main": "index.js",
   "repository": {
@@ -13,12 +13,19 @@
     "editor"
   ],
   "author": "Evan You",
+  "contributors": [
+    {
+      "name": "kiccer",
+      "email": "1072907338@qq.com",
+      "url": "https://github.com/kiccer"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yyx990803/launch-editor/issues"
   },
   "homepage": "https://github.com/yyx990803/launch-editor#readme",
   "dependencies": {
-    "launch-editor": "^2.6.0"
+    "@catnap/launch-editor": "^2.6.1"
   }
 }

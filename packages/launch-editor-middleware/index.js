@@ -1,6 +1,6 @@
 const url = require('url')
 const path = require('path')
-const launch = require('launch-editor')
+const launch = require('@catnap/launch-editor')
 
 module.exports = (specifiedEditor, srcRoot, onErrorCallback) => {
   if (typeof specifiedEditor === 'function') {
