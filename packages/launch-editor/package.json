@@ -1,6 +1,6 @@
 {
-  "name": "launch-editor",
-  "version": "2.6.0",
+  "name": "@catnap/launch-editor",
+  "version": "2.6.1",
   "description": "launch editor from node.js",
   "main": "index.js",
   "repository": {
@@ -12,6 +12,13 @@
     "editor"
   ],
   "author": "Evan You",
+  "contributors": [
+    {
+      "name": "kiccer",
+      "email": "1072907338@qq.com",
+      "url": "https://github.com/kiccer"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yyx990803/launch-editor/issues"
